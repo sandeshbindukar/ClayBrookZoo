@@ -1,0 +1,70 @@
+/*_______iPhone3G,3Gs_____________*/
+@media(min-width: 320px) and (max-width: 480px)
+ {
+ 	/*________________________________header starts_________________________________*/
+ 		h1
+ 		{
+ 			font-size: 20px!important;
+ 		}
+ 		h2
+ 		{
+ 			font-size: 16px !important;
+ 		}
+ 		p
+ 		{
+ 			font-size: 13px;
+ 		}
+ 		a
+ 		{
+
+ 		}
+	 	.content .mainbar, .content .sidebar,.fbg .c3,.fbg .c1
+	 	{
+	 		width: 100%;
+	 	}
+ 		.header
+ 		{
+ 			padding: 10px 0;
+ 		}
+ 		.header_resize, .content_resize, .fbg_resize, .footer_resize
+ 		{
+ 			width: 100%;
+ 			padding: 4px
+ 		}
+ 		.content_resize .ctop
+ 		{
+ 			height: 140px ;
+ 		}
+ 		.content .mainbar img
+ 		{
+ 			margin: 10px;
+ 			padding: 2px;
+ 		}
+
+
+ 		.content .mainbar .article
+ 		{
+ 			padding: 3px 14px;
+ 		}
+ 		.content .sidebar .gadget
+ 		{
+ 			padding: 6px 13px 4px;
+ 		}
+ 		ul.sb_menu, ul.ex_menu
+ 		{
+ 			font-size: 13px;
+ 		}
+ 		ul.sb_menu li,ul.ex_menu li
+ 		{
+ 			font-size: 15px;
+ 		}
+ 		ul.sb_menu li
+ 		{
+ 			padding: 9px 0;
+ 		}
+ 		.fbg .c1 p
+ 		{
+ 			padding: 0px;
+ 		}
+ }
+
